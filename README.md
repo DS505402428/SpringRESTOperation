@@ -66,7 +66,7 @@ The application should start on: http://localhost:8080/
 
 ##  Sample REST Endpoints
 
-Assuming you are working with a `JobPost` object:
+We are working with a `JobPost` object:
 
 ### GET all job posts
 ```http
